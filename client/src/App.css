@@ -1,0 +1,10 @@
+html {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: url("/groupyIcon.jpg");
+  /* background-size: calc("100%"); */
+  background-position: 0lvh;
+}
